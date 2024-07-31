@@ -1,52 +1,64 @@
 # Tutorials
 
-Welcome to the Vector Database Cloud Tutorials repository! This repository offers a collection of step-by-step guides and educational content focused on using vector databases. Whether you're new to pgvector, Milvus, Qdrant, ChromaDB, or looking to deepen your knowledge, you'll find valuable resources here.
+Welcome to the Vector Database Cloud Tutorials repository! This repository offers a collection of step-by-step guides, educational content, and curated links to high-quality open-source tutorials. Whether you're a beginner or an advanced user, you'll find valuable resources to enhance your understanding of vector databases like pgvector, Milvus, Qdrant, and ChromaDB.
 
 ## Table of Contents
 
 - [About](#about)
 - [How to Contribute](#how-to-contribute)
 - [Tutorials](#tutorials)
-  - [Available Tutorials](#available-tutorials)
+  - [Getting Started](#getting-started)
+  - [Advanced Topics](#advanced-topics)
+  - [External Resources](#external-resources)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
 ## About
 
-This repository is designed to provide comprehensive tutorials that help users understand and implement vector databases. The tutorials cover a wide range of topics, from basic setup and configuration to advanced use cases and integrations, enabling developers to effectively utilize these powerful technologies.
+This repository is a hub for tutorials, including original content and curated links to external resources. The aim is to provide comprehensive learning paths for understanding and utilizing vector databases in various applications, from basic setup to advanced integrations and optimizations.
 
 ## How to Contribute
 
-We welcome contributions from the community! If you have a tutorial or educational content you'd like to share, please follow these steps:
+We welcome contributions from the community! If you have developed a tutorial or found a valuable external resource, please share it with us:
 
 1. **Fork the Repository**: Fork this repository to your GitHub account.
-2. **Add Your Tutorial**: Create a directory for your tutorial and include all relevant files. Ensure your tutorial is well-organized and includes clear instructions.
-3. **Submit a Pull Request**: Once your tutorial is ready, submit a pull request for review.
+2. **Add Your Tutorial**: Create a new directory for your tutorial. Include all necessary files, such as code samples and documentation.
+3. **Submit a Pull Request**: Submit a pull request for review and inclusion in the repository.
 
 ### Contribution Guidelines
 
-- Provide clear, step-by-step instructions and explanations.
-- Include any necessary code samples, screenshots, or diagrams to enhance understanding.
-- Ensure your tutorial is accurate and follows best practices.
+- Provide clear, well-documented tutorials with practical examples.
+- Include any necessary code, data, or resources.
+- If linking to external tutorials, ensure proper attribution and check for license compatibility.
 
 ## Tutorials
 
-### Available Tutorials
+### Getting Started
 
-Explore a variety of tutorials, including:
+- **Introduction to Vector Databases**: An overview of vector databases and their applications.
+- **Setting Up pgvector**: Step-by-step guide for installing and configuring pgvector.
+- **Basic Operations with Milvus**: Learn how to perform basic operations with Milvus.
 
-- **Getting Started**: Introduction to setting up and configuring vector databases.
-- **Advanced Queries**: Techniques for performing complex queries and data retrieval.
-- **Integrations**: Guides on integrating vector databases with other tools and platforms.
-- **Performance Optimization**: Tips and best practices for optimizing the performance of vector databases.
-- **Use Case Demonstrations**: Tutorials that showcase specific use cases and applications of vector databases.
+### Advanced Topics
 
-These tutorials are designed to help users at all skill levels, from beginners to advanced developers, gain a deeper understanding of vector database technologies.
+- **Optimizing Vector Searches**: Techniques for enhancing the performance of vector searches.
+- **Integrating Vector Databases with Machine Learning Models**: How to use vector databases with popular machine learning frameworks.
+- **Scalability and Performance Tuning**: Best practices for scaling vector databases.
+
+### External Resources
+
+Below are curated links to external tutorials and resources. These are high-quality, open-source materials that provide in-depth knowledge:
+
+- **[Hugging Face Course on Transformers](https://huggingface.co/transformers/course/)**: A comprehensive course on transformer models, which can be integrated with vector databases for enhanced NLP applications.
+- **[Milvus Documentation](https://milvus.io/docs/)**: Official Milvus documentation, including tutorials on deploying and managing Milvus.
+- **[Vector Search with FAISS](https://github.com/facebookresearch/faiss)**: An introduction to FAISS, a library for efficient similarity search and clustering of dense vectors, which can be used alongside vector databases.
+
+Feel free to explore these resources and expand your knowledge of vector databases!
 
 ## Code of Conduct
 
-We adhere to the [Vector Database Cloud Code of Conduct](https://github.com/VectorDBCloud/Community/blob/main/CODE_OF_CONDUCT.md). Please ensure your contributions align with our community standards.
+We adhere to the [Vector Database Cloud Code of Conduct](https://github.com/VectorDBCloud/Community/blob/main/CODE_OF_CONDUCT.md). Please respect these guidelines when contributing to or using this repository.
 
 ## License
 
-This repository is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+This repository is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
