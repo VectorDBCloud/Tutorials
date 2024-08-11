@@ -7,17 +7,18 @@ Welcome to the Vector Database Cloud Tutorials repository! This repository offer
 
 ## Table of Contents
 
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Tutorials](#tutorials)
-  - [Getting Started](#getting-started)
-  - [Advanced Topics](#advanced-topics)
-  - [External Resources](#external-resources)
-- [Usage](#usage)
-- [Contribution and Feedback](#contribution-and-feedback)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Disclaimer](#disclaimer)
+1. [About](#about)
+2. [Prerequisites](#prerequisites)
+3. [Tutorials](#tutorials)
+    1. [Getting Started](#getting-started)
+    2. [Advanced Topics](#advanced-topics)
+    3. [External Resources](#external-resources)
+4. [Usage](#usage)
+5. [Contribution and Feedback](#contribution-and-feedback)
+6. [Code of Conduct](#code-of-conduct)
+7. [License](#license)
+8. [Disclaimer](#disclaimer)
+
 
 ## About
 
