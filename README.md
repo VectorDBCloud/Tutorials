@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
 
 # Tutorials
 
@@ -80,6 +80,28 @@ For any issues or suggestions, please use the issue tracker.
 ## Code of Conduct
 
 We adhere to the [Vector Database Cloud Code of Conduct](https://github.com/VectorDBCloud/Community/blob/main/CODE_OF_CONDUCT.md). Please respect these guidelines when contributing to or using this repository.
+
+
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2024 Vector Database Cloud
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
+
+Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Tutorials created by Vector Database Cloud" or "Based on Vector Database Cloud tutorials", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
+
 
 
 ## Disclaimer
