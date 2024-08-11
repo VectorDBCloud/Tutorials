@@ -106,14 +106,16 @@ For the full license text, visit: https://creativecommons.org/licenses/by/4.0/le
 
 ## Disclaimer
 
-The tutorials and external resources provided in this repository are for educational purposes only. While we strive to ensure the accuracy and quality of the content, Vector Database Cloud is not responsible for any errors or omissions, or for the results obtained from the use of this information.
+The information and resources provided in this community repository are for general informational purposes only. While we strive to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information, products, services, or related graphics contained in this repository for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
-External resources are provided as a convenience, and their inclusion does not imply endorsement by Vector Database Cloud. Users should be aware that external sites may have different privacy policies and terms of use.
+Vector Database Cloud configurations may vary, and it's essential to consult the official documentation before implementing any solutions or suggestions found in this community repository. Always follow best practices for security and performance when working with databases and cloud services.
 
-Always exercise caution and follow best practices when implementing the concepts learned in these tutorials, especially in production environments. It is the responsibility of the user to ensure that any code or techniques implemented from these tutorials are thoroughly tested and appropriate for their specific use case.
+The content in this repository may change without notice. Users are responsible for ensuring they are using the most current version of any information or code provided.
 
-The code samples provided in these tutorials are examples only and may not be suitable for all environments or requirements. Users should adapt and test any code before using it in a production setting.
+This disclaimer applies to Vector Database Cloud, its contributors, and any third parties involved in creating, producing, or delivering the content in this repository.
 
-Vector Database Cloud does not provide support for issues arising from the implementation of these tutorials in your own projects. For support related to specific vector databases or tools, please refer to their official documentation and support channels.
+The use of any information or code in this repository may carry inherent risks, including but not limited to data loss, system failures, or security vulnerabilities. Users should thoroughly test and validate any implementations in a safe environment before deploying to production systems.
 
-By using these tutorials and resources, you agree that Vector Database Cloud shall not be held liable for any direct, indirect, incidental, special, consequential or exemplary damages resulting from the use or misuse of any information or code provided in this repository.
+For complex implementations or critical systems, we strongly recommend seeking advice from qualified professionals or consulting services.
+
+By using this repository, you acknowledge and agree to this disclaimer. If you do not agree with any part of this disclaimer, please do not use the information or resources provided in this repository.
